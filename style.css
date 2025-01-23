@@ -5,3 +5,8 @@ nav {
 nav :link {
     color: white;
 }
+
+footer {
+    background-color: blue;
+    color: white;
+}
