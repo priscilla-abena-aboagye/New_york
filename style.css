@@ -6,8 +6,8 @@ nav {
     background-color: blue;
     height: 50px;
     display: flex;
-    gap: 3em;
-    padding: 0px 20px;
+    gap: 25em;
+    padding: 0px 30px;
 }
 
 nav a {
@@ -15,20 +15,32 @@ nav a {
    color: white;
    text-decoration: none;
    position: relative;
-   left: 50em; 
    top: 10px;
+   margin-left: 30px;
+   padding-left: 30px;
 }
 
 header {
     font-size: 30px;
     font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
-#statue_of_liberty {
-    
+#all_media {
+    width: 350px;
+    height: 250px;
+}
+
+audio {
+    width: 100%;
 }
 
 footer {
     background-color: blue;
+}
+
+footer p {
     color: white;
+    text-align: center;
 }
